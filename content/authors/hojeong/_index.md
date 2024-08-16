@@ -29,17 +29,17 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,9 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hojeong is a graduate student interested in neural signal processing with deep learning model.

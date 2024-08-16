@@ -10,11 +10,11 @@ last_name: Suh
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Division of Humanities and Social Sciences
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: POSTECH
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

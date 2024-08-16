@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hojeong Shin
+title:Hojeong Shin
 
 # Full name (for SEO)
 first_name: Hojeong

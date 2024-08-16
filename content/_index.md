@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        *Cognitive Science Group* studies how we transform visual information into meanings in the brain. We are specifically interested in visual attention, control of cognitive resources, and how cognitive ability changes as we age. We use variety of research methods including behvaioral experiment, eye-tracking, and neuro-tools. 
   
   - block: collection
     content:

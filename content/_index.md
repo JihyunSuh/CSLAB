@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Cognitive Science 
+        Laboratory
       image:
         filename: welcome.jpg
       text: |

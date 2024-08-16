@@ -8,7 +8,7 @@ main:
     url: tour
     weight: 10
   - name: Research
-    url: research
+    url: event
     weight: 20
   - name: People
     url: people

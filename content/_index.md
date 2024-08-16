@@ -11,7 +11,7 @@ sections:
         Cognitive Science 
         Laboratory
       image:
-        filename: welcome.jpg
+        filename: front_image.jpeg
       text: |
         <br>
         

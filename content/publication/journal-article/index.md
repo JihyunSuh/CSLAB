@@ -4,9 +4,6 @@ authors:
 - Emily R Cohen-Shikora
 - admin
 - Julie Bugg
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
 date: "2019-09-01T00:00:00Z"
 doi: ""
 

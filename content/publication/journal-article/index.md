@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "Assessing the temporal learning account of the list-wide proportion congruence effect."
 authors:
+- Emily R Cohen-Shikora
 - admin
-- Robert Ford
+- Julie Bugg
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2019-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Journal of Experimental Psychology: Learning, Memory, and Cognition, 1*(1)"
+publication_short: "JEP:LMC"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this article, we assess an alternative account of a key experimental pattern thought to index top-down control. The list-wide proportion congruence effect is the well-documented pattern whereby the congruency effect (i.e., Stroop effect) is attenuated in lists containing mostly incongruent trials relative to lists containing mostly congruent trials. This pattern has typically been interpreted as a signature of a top-down control mechanism that modulates attention to the word dimension based on the global probability of encountering conflict between the word and color. However, Schmidt (2013a, 2013b) has proposed an alternative account that stresses relative temporal differences in responding between mostly incongruent and mostly congruent lists rather than relative differences in the control of attention. To assess this temporal learning account, we evaluate the evidence reported by Schmidt (2013a) and report new analyses of three previously published data sets in which a list-wide proportion congruence effect was observed after controlling for other potential confounds. These analyses targeted three key topics: effects of reaction time (RT) transformations, statistical support for temporal learning, and measurement of temporal rhythm. The evidence for the temporal learning account was neither strong nor consistent, and there was a highly significant list-wide proportion congruence effect that survived multiple attempts to control for temporal learning. Accordingly, we conclude that the temporal learning account is not currently a robust alternative to the global control account in explaining list-wide proportion congruence effects.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin # condimentum.
 
 tags:
 - Source Themes
